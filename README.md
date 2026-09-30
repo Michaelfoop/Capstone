@@ -1,3 +1,31 @@
+# openVAS report enhancer: makes openVAS reports easier to read and more helpful
+supposedly they aren't that great and i can make a tool that will make them easier to read and go more into detail of the vulnerability they scanned
+
+<br>
+
+vuln scanners will see a file in the software and call it vulnerable, despite the software being updated, if it is still there and it will say what the file in the report
+
+
+```
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+ll
+
+l
+```
+
+
+
 # Network Vulnerability Scanner
 This is my capstone project. It will scan hosts on a network and check softwares on a network against a database of known vulnerabilities, and then make a report of what it found
 
